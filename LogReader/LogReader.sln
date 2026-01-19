@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogReader", "LogReader.csproj", "{4BE7D6EB-0518-EE41-444F-9C3CC4DFE322}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE7D6EB-0518-EE41-444F-9C3CC4DFE322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE7D6EB-0518-EE41-444F-9C3CC4DFE322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE7D6EB-0518-EE41-444F-9C3CC4DFE322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE7D6EB-0518-EE41-444F-9C3CC4DFE322}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C8A7A10-E57F-4490-B582-DCBC84C8CDA1}
+	EndGlobalSection
+EndGlobal

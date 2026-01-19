@@ -1,0 +1,1 @@
+2026-01-14 14:51:17 | User: PRI_AOI_TOP_USER_05 passed resource: SMT-05_PRI_AOI_TOP_01  &  User: PRI_AOI_BOT_USER_05 passed resource: SMT-05_PRI_AOI_BOT_01 authentication
